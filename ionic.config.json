@@ -1,0 +1,7 @@
+{
+  "name": "CobotProject",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
